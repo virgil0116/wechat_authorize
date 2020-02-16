@@ -4,6 +4,7 @@ require "json"
 require "wechat_authorize/config"
 require "wechat_authorize/handler"
 require "wechat_authorize/api"
+require "wechat_authorize/version"
 require "wechat_authorize/client"
 
 module WechatAuthorize

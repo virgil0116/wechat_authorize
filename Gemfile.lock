@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    wechat_authorize (0.1.0)
+    wechat_authorize (1.0.0)
       redis (>= 4.1)
       rest-client (>= 1.8)
 
